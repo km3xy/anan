@@ -1,9 +1,13 @@
 # anan
 anan23#
 
+https://github.com/km3xy/anan/wiki
+
 
 开锁孔技巧用18#支罗砖头开锁面板孔，锁体槽镂空。
 
+
+https://github.com/km3xy/anan/wiki
 
 
 木门轴心高度，常用高度98厘米
