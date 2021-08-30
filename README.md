@@ -1,4 +1,4 @@
-# anan
+*# anan
 anan23#
 
 https://github.com/km3xy/anan/wiki
@@ -23,6 +23,6 @@ https://github.com/km3xy/anan/wiki
 
 上量玻璃计算方法，上量玻璃高度，
 
-用门扇高度+4+1减去洞口高度，
+用门扇高度+4+1+1.5 减去洞口高度，
 
 上量玻璃宽度，用门扇宽度+0.5是上量玻璃宽度。
