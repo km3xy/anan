@@ -1,11 +1,23 @@
-Fatal error: Uncaught Error: Call to undefined function mysql_connect() in /storage/emulated/0/htdocs/4s5rWoteZipp9_XINGAIZippo_from_bf_ff_dlt_ssq_00000000000/21x21dlt_myaql_21.php:116 Stack trace: #0 {main} thrown in /storage/emulated/0/htdocs/4s5rWoteZipp9_XINGAIZippo_from_bf_ff_dlt_ssq_00000000000/21x21dlt_myaql_21.php on line 116
+Fatal error: 
+
+Uncaught Error: Call to undefined function mysql_connect()
+
+in /storage/emulated/0/htdocs/4s5rWoteZipp9_XINGAIZippo_from_bf_ff_dlt_ssq_00000000000/21x21dlt_myaql_21.php:116 
+Stack trace: #0 {main} thrown in /storage/emulated/0/htdocs/4s5rWoteZipp9_XINGAIZippo_from_bf_ff_dlt_ssq_00000000000/21x21dlt_myaql_21.php on
+
+ line 116
 
 
 
+从PHP5.0开始mysql_connect()就不推荐使用了，
 
-从PHP5.0开始mysql_connect()就不推荐使用了，到PHP7.0就直接被废弃了，如果PHP为7.0及以上版本的话用mysqli_connect()代替
+
+到PHP7.0就直接被废弃了，
+
+如果PHP为7.0及以上版本的话用mysqli_connect()代替
+
+
 其它同名函数也换成相应的 mysqli_method
-
 
 
 
